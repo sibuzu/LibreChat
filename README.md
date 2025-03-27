@@ -47,7 +47,7 @@
 </p>
 
 
-# ✨ Features
+# ✨ Features - 1
 
 - 🖥️ **UI & Experience** inspired by ChatGPT with enhanced design and features
 
